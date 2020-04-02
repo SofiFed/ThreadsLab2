@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\Lab2Csharp\Lab2Csharp\bin\Debug\Lab2Csharp.exe.config
+C:\Users\User\Desktop\Lab2Csharp\Lab2Csharp\bin\Debug\Lab2Csharp.exe
+C:\Users\User\Desktop\Lab2Csharp\Lab2Csharp\bin\Debug\Lab2Csharp.pdb
+C:\Users\User\Desktop\Lab2Csharp\Lab2Csharp\obj\Debug\Lab2Csharp.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Lab2Csharp\Lab2Csharp\obj\Debug\Lab2Csharp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Lab2Csharp\Lab2Csharp\obj\Debug\Lab2Csharp.exe
+C:\Users\User\Desktop\Lab2Csharp\Lab2Csharp\obj\Debug\Lab2Csharp.pdb
